@@ -142,6 +142,19 @@ This project provided hands-on experience in network security monitoring and int
 
 ---
 
+## 📸 Screenshots
+ 1. Demo IPS Signature ( https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%201.png?raw=true)
+ 2. Rule Validaton (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%202.png?raw=true)
+ 3. Snort Startup (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%203.png?raw=true)
+ 4. tested on local network adapter (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%204.png?raw=true)
+ 5. PluginConfiguration(https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%205.png?raw=true)
+ 6. performance metrics(https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%206.png?raw=true)
+ 7. pcap forensics(https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%207.png?raw=true)
+ 8. pcap analysis command(https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%208.png?raw=true)
+ 9. continuation to threat analysis (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%209.png?raw=true)
+ 10. sorted threats  , signature counts (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%2010.png?raw=true)
+ 11. exploit attempt (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%2011.png?raw=true)
+
 
 ## 📄 License
 
