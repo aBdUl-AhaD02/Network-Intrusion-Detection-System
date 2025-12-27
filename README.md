@@ -154,7 +154,7 @@ This project provided hands-on experience in network security monitoring and int
  9. continuation to threat analysis (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%209.png?raw=true)
  10. sorted threats  , signature counts (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%2010.png?raw=true)
  11. exploit attempt (https://github.com/aBdUl-AhaD02/Network-Intrusion-Detection-System/blob/main/Images/Screenshot%2011.png?raw=true)
- 12. (images/secreenshot5.png)
+
 
 
 ## 📄 License
