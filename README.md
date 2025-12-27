@@ -77,7 +77,7 @@ cd snort3-3.10.0.0
 - Configured alert thresholds and suppression rules
 
 ### 6. PCAP Analysis
-- Collected network traffic samples using tcpdump
+- Collected network traffic samples 
 - Analyzed PCAP files containing various attack scenarios
 - Ran Snort against captured traffic: `snort -c snort.lua -r capture.pcap`
 - Identified and documented indicators of compromise (IOCs)
